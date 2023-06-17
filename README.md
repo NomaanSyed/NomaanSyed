@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nomaan</h1>
 <h3 align="center">An enthusiastic learner and a problem solver</h3>
 
-<img align="right" alt ="coding" width = "400" src="https://github.com/NomaanSyed/NomaanSyed/blob/main/0249efe4cc8e3c20094fc2d20aa58912.gif">
+<img align="right" alt ="coding" width = "400" src="https://github.com/NomaanSyed/NomaanSyed/blob/main/ef0936558e58d6bebf73fee2ae895fe3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomaansyed&label=Profile%20views&color=0e75b6&style=flat" alt="nomaansyed" /> </p>
 
